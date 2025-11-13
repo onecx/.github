@@ -15,8 +15,7 @@ Our goal is to bridge the gap between **industrial operations** and **modern dig
 
 ### ⚙️ Getting Started
 
-If you are looking to get started with OneCX check out our [Local Environment](https://github.com/onecx/onecx-local-env-cli) and the [Documentation](https://onecx.github.io/docs/index/current/index.html).
-
+If you are looking to get started with OneCX check out our [Local Environment](https://github.com/onecx/onecx-local-env-cli) and see the [Documentation](https://onecx.github.io/docs/index/current/index.html).
 
 ### 🤝 Contribute
 
