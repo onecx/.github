@@ -8,15 +8,22 @@
   The open-source portal platform for modern web and software development.
 </p>
 
-### About us
+### 🌟 About us
 We are a technology-driven organization focused on creating scalable and efficient solution 
 for digital manufacturing and software industrialization.
 Our goal is to bridge the gap between **industrial operations** and **modern digital platforms**, empowering companies to innovate faster and smarter.
 
-### Entry Points
+### ⚙️ Getting Started
 
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| [**onecx-documentation**](https://onecx.github.io/docs/index/current/index.html) | Documentation: Concepts, Setup, Guides, Microservices | Quarkus, Angular, Docker, Kubernetes, ... |
-| [**onecx-local-env**](https://github.com/onecx/onecx-local-env) | Local Environment for Developers | Docker, Docker Compose, Node.js |
-| [**onecx-local-env-cli**](https://github.com/onecx/onecx-local-env-cli) | Developer CLI for setup | Docker, Node.js |
+<p>
+  If you are looking to get started with OneCX check out our [Local Environment](https://github.com/onecx/onecx-local-env-cli) and the [Documentation](https://onecx.github.io/docs/index/current/index.html).
+</p>
+
+### 🤝 Contribute
+
+We welcome community contributions!  
+To get started:
+1. ⭐ Star our repositories
+2. Fork a project and open a Pull Request
+3. Join the discussion and help us build the future of smart manufacturing
+
