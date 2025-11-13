@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./OneCXPortalPlatform.png" alt="Organization Banner">
+  <img src="https://raw.githubusercontent.com/onecx/.github/main/profile/OneCXPortalPlatform.png" alt="Organization Banner">
 </p>
 
 <h1 align="center">Welcome to <span style="color:#2f81f7;">OneCX</span> 🚀 </h1>
