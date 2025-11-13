@@ -1,11 +1,11 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/onecx/.github/main/profile/OneCXPortalPlatform.png" alt="Organization Banner">
-</p>
-
 <h1 align="center">Welcome to <span style="color:#2f81f7;">OneCX</span> 🚀 </h1>
 
 <p align="center">
   The open-source portal platform for modern web and software development.
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/onecx/.github/main/profile/OneCXPortalPlatform.png" alt="Organization Banner">
 </p>
 
 ### 🌟 About us
