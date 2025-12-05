@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to <span style="color:#2f81f7;">OneCX</span> 🚀 </h1>
 
 <p align="center">
-  The open-source portal platform for modern web and software development.
+  The open-source platform for modern web and software development.
 </p>
 
 <p align="center">
