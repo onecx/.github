@@ -9,18 +9,18 @@
 </p>
 
 ### 🌟 About us
-We are a technology-driven organization focused on creating scalable and efficient solution 
-for digital manufacturing and software industrialization.
+We are a technology-driven organization focused on creating scalable and efficient solution for digital manufacturing and software industrialization.
 Our goal is to bridge the gap between **industrial operations** and **modern digital platforms**, empowering companies to innovate faster and smarter.
 
 ### ⚙️ Getting Started
 
-If you are looking to get started with OneCX check out our [Local Environment](https://github.com/onecx/onecx-local-env-cli) and see the [Documentation](https://onecx.github.io/docs/index/current/index.html).
+If you are looking to get started with OneCX see our [Getting Started](https://onecx.github.io/docs/documentation/current/onecx-docs-start/index.html) documentation.
 
 ### 🤝 Contribute
 
-We welcome community contributions!  
+We welcome community contributions!
 To get started:
+1. See our [Documentation](https://onecx.github.io/docs/documentation/current/index.html)
 1. ⭐ Star our repositories
 2. Fork a project and open a Pull Request
 3. Join the discussion and help us build the future of smart manufacturing
