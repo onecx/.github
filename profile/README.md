@@ -19,13 +19,13 @@ If you are looking to get started with OneCX see our [Getting Started](https://o
 ### 📖 Issues
 We organize our issues in different repositories:
 - Standalone Projects keep their issues in their own repositories:
-  - [OneCX Portal UI Libs](https://github.com/onecx/onecx-portal-ui-libs/)
-  - [OneCX App Generator](https://github.com/onecx/onecx-nx-plugins)
-  - [OneCX Local Env](https://github.com/onecx/onecx-local-env/)
-  - [OneCX Local Env CLI](https://github.com/onecx/onecx-local-env-cli/)
-- All Product related issues are in our [tasks repository](https://github.com/onecx/tasks/)
+  - [OneCX Portal UI Libs](https://github.com/onecx/onecx-portal-ui-libs/issues)
+  - [OneCX App Generator](https://github.com/onecx/onecx-nx-plugins/issues)
+  - [OneCX Local Env](https://github.com/onecx/onecx-local-env/issues)
+  - [OneCX Local Env CLI](https://github.com/onecx/onecx-local-env-cli/issues)
+- All Product related & other issues are in our [tasks repository](https://github.com/onecx/tasks/issues)
 
-If you want to report an issue and are unsure about the affected repository, create it inside the [tasks repository](https://github.com/onecx/tasks/).
+If you want to report an issue and are unsure about the affected repository, create it inside the [tasks repository](https://github.com/onecx/tasks/issues).
 
 ### 🤝 Contribute
 
