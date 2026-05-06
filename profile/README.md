@@ -16,12 +16,24 @@ Our goal is to bridge the gap between **industrial operations** and **modern dig
 
 If you are looking to get started with OneCX see our [Getting Started](https://onecx.github.io/docs/documentation/current/onecx-docs-start/index.html) documentation.
 
+### 📖 Issues
+We organize our issues in different repositories:
+- Standalone Projects keep their issues in their own repositories:
+  - [OneCX Portal UI Libs](https://github.com/onecx/onecx-portal-ui-libs/)
+  - [OneCX App Generator](https://github.com/onecx/onecx-nx-plugins)
+  - [OneCX Local Env](https://github.com/onecx/onecx-local-env/)
+  - [OneCX Local Env CLI](https://github.com/onecx/onecx-local-env-cli/)
+- All Product related issues are in our [tasks repository](https://github.com/onecx/tasks/)
+
+If you want to report an issue and are unsure about the affected repository, create it inside the [tasks repository](https://github.com/onecx/tasks/).
+
 ### 🤝 Contribute
 
 We welcome community contributions!
 To get started:
 1. See our [Documentation](https://onecx.github.io/docs/documentation/current/index.html)
-1. ⭐ Star our repositories
-2. Fork a project and open a Pull Request
-3. Join the discussion and help us build the future of smart manufacturing
+2. ⭐ Star our repositories
+3. Take a look at our tasks repository about open todos [Tasks](https://github.com/onecx/tasks)
+4. Fork a project and open a Pull Request
+5. Join the discussion and help us build the future of smart manufacturing
 
